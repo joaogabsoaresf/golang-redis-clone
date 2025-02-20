@@ -61,7 +61,7 @@ OK
     - GET key
     - DEL key key2...
     - EXISTS key
-- Hashes - O(1) for Read and Write
+- Hashes
     - HSET hash field value
     - HGET hash field
     - HDEL hash field
